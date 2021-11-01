@@ -16,7 +16,7 @@ printf("you can drive\n");
 
 
 }
-if(age==50);  // for equality check 
+if(age==50) // for equality check 
 {printf("half century");
 
 
